@@ -5,13 +5,14 @@ header {
   align-items: center;
   justify-content: space-between;
   margin-top: 24px;
+  margin-right: 112px;
+  margin-left: 112px;
 }
 .logo-title {
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  margin-left: 112px;
 }
 .title {
   font-family: "Inter", sans-serif;
@@ -60,7 +61,6 @@ ul {
   border-radius: 8px;
   font-family: "Inter", sans-serif;
   color: white;
-  margin-right: 48px;
   cursor: pointer;
 }
 .section-cabeçalho {
@@ -68,6 +68,7 @@ ul {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  margin-top: 175px;
 }
 .sobre-nos-cabeçalho {
   font-family: "Inter", sans-serif;
