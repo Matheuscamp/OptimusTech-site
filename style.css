@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap");
+header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 24px;
+}
+.logo-title {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-left: 112px;
+}
+.title {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 24px;
+  margin-left: 8px;
+}
+.logo-img {
+  width: 38px;
+  height: 37px;
+}
+ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+.nav-link {
+  text-decoration: none;
+  color: #667085;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  margin-right: 16px;
+  margin-left: 16px;
+}
+.login {
+  font-family: "Inter", sans-serif;
+  color: #667085;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  margin-right: 38px;
+  cursor: pointer;
+}
+.button-cadastrar {
+  width: 112px;
+  height: 44px;
+  border-style: none;
+  background-color: #8e2424;
+  border: 1px solid #8e2424;
+  border-radius: 8px;
+  font-family: "Inter", sans-serif;
+  color: white;
+  margin-right: 48px;
+  cursor: pointer;
+}
+.section-cabeçalho {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.sobre-nos-cabeçalho {
+  font-family: "Inter", sans-serif;
+  color: #8e2424;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+}
+.text-cabeçalho {
+  font-family: "Inter", sans-serif;
+  color: #101828;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 60px;
+}
+.sub-text-cabeçalho {
+  font-family: "Inter", sans-serif;
+  color: #667085;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+}
