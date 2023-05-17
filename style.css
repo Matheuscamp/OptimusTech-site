@@ -171,3 +171,52 @@ h2 {
 .img-vagas {
   margin-top: 34px;
 }
+.section-salarios {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 64px;
+}
+.container-salarios {
+  width: 1300px;
+  height: 800px;
+}
+.title-salario {
+  font-family: "Inter", sans-serif;
+  color: #101828;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  margin-left: 195px;
+}
+.card-salario {
+  border-radius: 16px;
+  border: 1px solid #eaecf0;
+  width: 817px;
+  height: 120px;
+  margin-left: 195px;
+  margin-top: 35px;
+}
+.card-salario-title {
+  font-family: "Inter", sans-serif;
+  color: #101828;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  margin-left: 25px;
+}
+.card-salario-subtitle {
+  font-family: "Inter", sans-serif;
+  color: #667085;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  margin-left: 25px;
+  margin-top: 28px;
+}
+.margin-top {
+  margin-top: 53px;
+}
