@@ -93,6 +93,7 @@ ul {
   font-weight: 400;
   font-size: 20px;
   line-height: 30px;
+  text-align: center;
 }
 .section-metricas {
   display: flex;
@@ -219,4 +220,119 @@ h2 {
 }
 .margin-top {
   margin-top: 53px;
+}
+.section-depoimentos {
+  margin-top: 164px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container-depoimentos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 1216px;
+  height: 404px;
+  background: rgba(196, 25, 25, 0.03);
+  border-radius: 16px;
+}
+.box-depoimentos {
+  font-family: "Inter", sans-serif;
+  color: #8e2424;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+}
+.title-depoimentos {
+  font-family: "Inter", sans-serif;
+  color: #101828;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 44px;
+  text-align: center;
+}
+.img-depoimento {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+}
+.nome-depoimento {
+  font-family: "Inter", sans-serif;
+  color: #101828;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+}
+.subtitle-depoimento {
+  font-family: "Inter", sans-serif;
+  color: #667085;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  margin-top: -15px;
+}
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: #f9fafb;
+  margin-top: 64px;
+}
+.titile-footer {
+  font-family: "Inter", sans-serif;
+  color: #101828;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 44px;
+}
+.subtitle-footer {
+  font-family: "Inter", sans-serif;
+  color: #667085;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  margin-top: -24px;
+}
+.input-footer {
+  width: 360px;
+  height: 48px;
+  background: #ffffff;
+  border: 1px solid #d0d5dd;
+  border-radius: 8px;
+  font-family: "Inter", sans-serif;
+  color: #667085;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  margin-right: 4px;
+}
+.button-footer {
+  width: 112px;
+  height: 52px;
+  border-style: none;
+  background-color: #8e2424;
+  border: 1px solid #8e2424;
+  border-radius: 8px;
+  font-family: "Inter", sans-serif;
+  color: white;
+  cursor: pointer;
+  margin-left: 4px;
+}
+.Copyright {
+  margin-top: 20px;
+  font-family: "Inter", sans-serif;
+  color: #667085;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
 }
