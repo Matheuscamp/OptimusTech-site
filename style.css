@@ -53,16 +53,24 @@ ul {
   cursor: pointer;
   text-decoration: none;
 }
-.button-cadastrar {
+.login-register {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+}
+.botao-cadastrar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 112px;
   height: 44px;
-  border-style: none;
   background-color: #8e2424;
   border: 1px solid #8e2424;
   border-radius: 8px;
   font-family: "Inter", sans-serif;
   color: white;
   cursor: pointer;
+  text-decoration: none;
 }
 .section-cabeçalho {
   display: flex;
