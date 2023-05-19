@@ -30,7 +30,7 @@ section {
 }
 .container {
   width: 400px;
-  height: 460px;
+  height: 450px;
   background: #eaecf0;
   border: 1px;
   border-radius: 8px;
@@ -69,7 +69,7 @@ input {
   margin-top: 10px;
   border-style: none;
 }
-.botao-login {
+.botao-redefinir {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -84,16 +84,16 @@ input {
   cursor: pointer;
   margin-top: 15px;
 }
-.esqueceu-a-senha {
+.subtitle-redefinir-senha {
   font-family: "Inter", sans-serif;
   color: #101828;
   font-style: normal;
   font-weight: 500;
-  font-size: 14px;
+  font-size: 22px;
   line-height: 30px;
   margin-top: 15px;
   cursor: pointer;
-  text-decoration: none;
+  text-align: center;
 }
 label {
   font-family: "Inter", sans-serif;
@@ -103,13 +103,14 @@ label {
   font-size: 20px;
   line-height: 30px;
 }
-.link-page-cadastro {
+.link-page-entrar {
   font-family: "Inter", sans-serif;
   color: #101828;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 30px;
+  margin-top: 15px;
   cursor: pointer;
   text-decoration: none;
 }

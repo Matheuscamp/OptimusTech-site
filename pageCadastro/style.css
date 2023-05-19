@@ -1,7 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap");
 body {
-  background-image: linear-gradient(100deg, #101828, #667085, #d0d5dd, #eaecf0);
-  height: 99vh;
+  background-image: linear-gradient(90deg, #101828, #667085, #d0d5dd, #eaecf0);
 }
 .logo-title {
   display: flex;
