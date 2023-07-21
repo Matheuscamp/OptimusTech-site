@@ -1,4 +1,4 @@
-# OptimusTech-site
+# OptimusTech site
 
 This is a Landing page web site for a fake OptimusTech company.
 
